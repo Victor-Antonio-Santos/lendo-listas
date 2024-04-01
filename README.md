@@ -1,6 +1,8 @@
 # lendo-listas
 lendo listas de notas de alunos
 
+####  Faça um Programa que crie uma lista com as médias de cada aluno, imprima as médias de cada aluno e a quantidade de alunos com média maior que 7.
+
 alunos = ["José", "Joana", "Maria", "Carla", "Mauricio", "Andre", "Tiago", "Enzo", "Amanda", "Alessandra"]
 
 notas = [
@@ -28,6 +30,7 @@ for media in medias:
         contador += 1
         
 print(f'{contador} alunos tiveram a nota maior ou igual a 7')
+![image](https://github.com/Victor-Antonio-Santos/lendo-listas/assets/160191987/813e75ec-873f-4d15-8b42-4542f82b4336)
 
 ![image](https://github.com/Victor-Antonio-Santos/lendo-listas/assets/160191987/fca65c95-96ee-4a38-a901-4116631dd32c)
 
